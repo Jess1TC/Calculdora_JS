@@ -34,7 +34,7 @@ En general, la calculadora realizada con JavaScript tiene las siguientes caracte
 - `Borrar todo`: Tiene la función de borrar todos los datos ingresados en la calculadora y resetea la calculadora a sus valores predeterminados.
 
 <h3>Ver:</h3> 
-[CALCULADORA LAUNCH-X](https://jess1tc.github.io/Calculdora_JS/ )
+[Calculadora Lauch-X]( https://jess1tc.github.io/Calculdora_JS/ "Calculadora" )
 
  ![Calculadora LaunchX_](https://user-images.githubusercontent.com/114209842/207754659-e3ed376d-7830-427f-92d0-e2e49b9e2991.png )
  
